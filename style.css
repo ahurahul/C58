@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#a7ed05 0%, #8e05f7 100%);
+}
+img {
+    width: 280px;
+}
+.links:hover{
+    background-color: crimson;
+}
+
+.menu{
+    font-family: fantasy;
+    background-position: right;
+}
